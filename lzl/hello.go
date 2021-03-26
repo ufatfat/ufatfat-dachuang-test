@@ -2,6 +2,6 @@ package lzl
 
 import "fmt"
 
-func helloWorld () {
+func HelloWorld () {
 	fmt.Println("hello world")
 }
