@@ -1,4 +1,4 @@
-package main
+package lzl
 
 import "fmt"
 
